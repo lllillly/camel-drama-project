@@ -1,0 +1,34 @@
+.Header {
+  width: 100%;
+  height: 13vh;
+  background-color: #7e92a6;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.mainlogo {
+  width: 100%;
+  height: 10vh;
+  cursor: pointer;
+}
+
+.Header__01 {
+  width: 80%;
+}
+
+.Header__02 {
+  width: 50%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.Header__02 span {
+  cursor: pointer;
+  font-weight: 800;
+  color: #ffffff;
+}

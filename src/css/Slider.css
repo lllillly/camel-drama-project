@@ -1,0 +1,20 @@
+.MainSlider {
+  width: calc(100% - 400px);
+  height: 130px;
+}
+
+.MainSlider .MainSlider__title {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+  margin-bottom: 50px;
+}
+
+.MainSlider .MainSlider__dramaImages div img {
+  width: 250px;
+  height: 350px;
+
+  margin: 0 auto;
+}

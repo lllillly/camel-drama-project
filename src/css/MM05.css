@@ -1,0 +1,22 @@
+.MM05 {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to bottom, #6487a0, #6487a0);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.MM05 .MM05__MainSlider {
+  width: 100%;
+
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.MM05 .MM05__mainTitle .MM05text {
+  width: 700px;
+}

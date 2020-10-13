@@ -1,0 +1,55 @@
+.MM02 {
+  width: 100%;
+  height: 100vh;
+  background-color: #7e92a6;
+  /* background: linear-gradient(to top, #00416a, #e4e5e6); */
+  background: linear-gradient(to bottom, #b4c2cb, #9aafbe);
+
+  display: flex;
+  flex-direction: row;
+}
+
+.MM02_1 {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.MM02_2 {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.MM02__text-1 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.MM02__text-2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.mockUp2 {
+  width: 330px;
+  height: 637.28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: absolute;
+
+  left: 20;
+  top: 30;
+}
+
+.mockUpImage {
+  width: 272px;
+  height: 590px;
+}

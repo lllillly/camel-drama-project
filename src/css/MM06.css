@@ -1,0 +1,78 @@
+.MM06 {
+  width: 100%;
+  height: 100vh;
+
+  background: linear-gradient(to bottom, #6487a0, #6487a0);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.MM06 button {
+  color: #7e92a6;
+}
+
+.dramaTitle {
+  color: black;
+  font-size: 45px;
+
+  display: flex;
+}
+
+.MM06 .MM06__contentArea1 > h2 {
+  color: black;
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.MM06 .MM06__contentArea2 > h2 {
+  color: black;
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.MM06 .MM06__contentArea3 > h2 {
+  color: black;
+  font-size: 45px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.MM06 .MM06__contentArea p {
+  margin-bottom: 30px;
+  color: #413b3b;
+  font-size: 23px;
+  text-indent: 20px;
+}
+
+.MM06 .MM06__contentArea a {
+  margin-bottom: 30px;
+  color: #413b3b;
+  font-size: 23px;
+  text-indent: 20px;
+  margin-left: 20px;
+}
+
+.MM06 .MM06__contentArea .MM06__contentArea2 button {
+  width: 140px;
+  height: 40px;
+  color: #fff;
+  border: 2px solid rgb(170, 147, 147);
+  background: linear-gradient(#ca8582, #cfafae, #ca8582);
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 40px;
+  cursor: pointer;
+  margin-left: 20px;
+}
+
+.MM06 .MM06__contentArea .MM06__contentArea2 .MM06__contentArea2__2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+}

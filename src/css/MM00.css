@@ -1,0 +1,281 @@
+.MM00 {
+  width: 100%;
+  height: 100vh;
+  background-color: #7e92a6;
+  /* background: linear-gradient(to top, #00416a, #e4e5e6); */
+  background: linear-gradient(to bottom, #cdd4d9, #cdd4d9);
+  display: flex;
+  flex-direction: row;
+}
+
+.MM00_1 {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.MM00_2 {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.MM00 button {
+  border: none;
+  border-radius: 15px;
+  margin-left: 5px;
+}
+
+.MM00 .buttons {
+  display: flex;
+  flex-direction: row;
+}
+
+.MM00 .down-app {
+  width: 150px;
+  height: 50px;
+  font-size: 20px;
+}
+
+.MM00__text-1 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.MM00__text-2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.mockUp-00 {
+  width: 400px;
+  height: 772.47px;
+  margin-top: 100px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  position: absolute;
+
+  left: 20;
+  top: 20;
+}
+
+.MM00 .MM00_2 .mockUpImage {
+  margin-top: 190px;
+  width: 350px;
+  height: 720px;
+  border-radius: 45px;
+}
+
+.MM00text {
+  width: 100%;
+  margin-left: 50px;
+  margin-bottom: 40px;
+}
+
+@media (max-width: 900px) {
+  .MM00 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .MM00_1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00text {
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .mockUp-00 {
+    width: 360px;
+    height: 752.47px;
+    margin-top: 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+
+    left: 20;
+    top: 20;
+  }
+
+  .MM00 .MM00_2 .mockUpImage {
+    margin-top: 160px;
+    width: 310px;
+    height: 700px;
+    border-radius: 35px;
+  }
+}
+@media (max-width: 700px) {
+  .MM00 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .MM00_1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00text {
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .mockUp-00 {
+    width: 320px;
+    height: 732.47px;
+    margin-top: 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+
+    left: 20;
+    top: 20;
+  }
+
+  .MM00 .MM00_2 .mockUpImage {
+    margin-top: 140px;
+    width: 270px;
+    height: 680px;
+    border-radius: 25px;
+  }
+}
+@media (max-width: 500px) {
+  .MM00 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .MM00_1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00text {
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .mockUp-00 {
+    width: 280px;
+    height: 712.47px;
+    margin-top: 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+
+    left: 20;
+    top: 20;
+  }
+
+  .MM00 .MM00_2 .mockUpImage {
+    margin-top: 160px;
+    width: 230px;
+    height: 660px;
+    border-radius: 15px;
+  }
+}
+@media (max-width: 350px) {
+  .MM00 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .MM00_1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00_2 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .MM00text {
+    width: 100%;
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
+
+  .mockUp-00 {
+    width: 240px;
+    height: 692.47px;
+    margin-top: 80px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    position: absolute;
+
+    left: 20;
+    top: 20;
+  }
+
+  .MM00 .MM00_2 .mockUpImage {
+    margin-top: 160px;
+    width: 200px;
+    height: 640px;
+    border-radius: 5px;
+  }
+}

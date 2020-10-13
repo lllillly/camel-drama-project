@@ -1,0 +1,16 @@
+@import "./reset.css";
+@import "./MM00.css";
+@import "./MM01.css";
+@import "./MM02.css";
+@import "./MM03.css";
+@import "./MM04.css";
+@import "./MM05.css";
+@import "./MM06.css";
+@import "./header.css";
+@import "./footer.css";
+@import "./Slider.css";
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
